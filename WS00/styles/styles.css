@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(36, 0, 69);
+    font-family: fantasy;
+    background-image: url(../kuvat/9f79723506ee1186ebcf5cd4f7343472.jpg);
+}
+
+p {
+    font-size: xx-large;
+}
+
+.btn {
+    background-color: rgb(251, 206, 255);
+    font-size: x-large;}
+
+.img {
+height: 20px;
+width: 20px;}

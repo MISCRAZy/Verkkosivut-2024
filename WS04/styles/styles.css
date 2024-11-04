@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border: 2px dotted;
+    border-color: white;
+}
+
+h1 {font-size: 20px;
+color: white;}
+
+p {
+    font-size: 12px;
+color: lightgray;}
+
