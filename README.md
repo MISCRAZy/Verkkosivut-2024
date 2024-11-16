@@ -1,1 +1,0 @@
-Tämä on ammattikorkeakoulu tehtävä

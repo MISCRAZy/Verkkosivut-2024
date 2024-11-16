@@ -1,0 +1,23 @@
+.custom-navbar {
+    background-color: #007bff; /* Bootstrap Primary Blue */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for depth */
+}
+
+.custom-navbar .nav-link {
+    color: #ffffff; /* White text for contrast */
+    font-weight: 500; /* Slightly bold for better readability */
+    margin-left: 10px; /* Space between links */
+    margin-right: 10px;
+    padding: 10px 15px; /* Adds padding for clickable area */
+    border-radius: 5px; /* Rounded corners for links */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth hover effect */
+}
+
+.custom-navbar .nav-link:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    color: #f8f9fa; /* Light gray for text on hover */
+}
+
+.custom-navbar .navbar-brand img {
+    border-radius: 10px; /* Optional: Rounded logo corners */
+}
